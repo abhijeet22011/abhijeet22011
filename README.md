@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">✨ Abhijeet ✨</h1>
+<h3 align="center">Software Developer • Competitive Programmer • Tech Enthusiast</h3>
 
-<!--
-**abhijeet22011/abhijeet22011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+📫 abhijeet22011@gmail.com •  
+<a href="#">LinkedIn</a> •  
+<a href="#">GitHub</a>  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 GATE CSE Aspirant + B.Tech Student
+- 💻 Love Full Stack Development, DSA, and System Design
+- 🚀 Learning every day & building projects
+- 🤝 Open to Open Source & Hackathons
+
+---
+
+## 🏆 Achievements
+
+- ✨ Built Online Exam Proctoring System
+- 🔥 Working on MERN + Python
+- 💡 Good command in C, C++, and Data Structures
