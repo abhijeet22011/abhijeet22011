@@ -1,5 +1,5 @@
-<h1 align="center">✨ Abhijeet ✨</h1>
-<h3 align="center">Software Developer • Competitive Programmer • Tech Enthusiast</h3>
+<h1 align="center">✨ Abhijeet Chaurasiya ✨</h1>
+<h3 align="center">Software Developer • Tech Enthusiast</h3>
 
 <p align="center">
 📫 abhijeet22011@gmail.com •  
@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 GATE CSE Aspirant + B.Tech Student
+- 🎓  B.Tech Student
 - 💻 Love Full Stack Development, DSA, and System Design
 - 🚀 Learning every day & building projects
 - 🤝 Open to Open Source & Hackathons
