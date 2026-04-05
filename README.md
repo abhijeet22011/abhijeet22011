@@ -3,8 +3,7 @@
 
 <p align="center">
 📫 abhijeet22011@gmail.com •  
-<a href="#">LinkedIn</a> •  
-<a href="#">GitHub</a>  
+<a href="#">LinkedIn</a> •    
 </p>
 
 ---
@@ -18,8 +17,9 @@
 
 ---
 
-## 🏆 Achievements
+## 🚀 My Coding Profiles
 
-- ✨ Built Online Exam Proctoring System
-- 🔥 Working on MERN + Python
-- 💡 Good command in C, C++, and Data Structures
+- 🔸 [GeeksforGeeks](https://www.geeksforgeeks.org/user/abhijeet22011/)
+- 🔸 [LeetCode](https://leetcode.com/abhijeet22011/)
+- 🔸 [Codeforces](https://codeforces.com/profile/abhijeet22011)
+- 🔸 [CodeChef](https://www.codechef.com/users/abhijeet22011)
