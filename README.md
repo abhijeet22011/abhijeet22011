@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abhijeet</h1>
 <h3 align="center">Aspiring Software Engineer </h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abhijeet22011&label=Profile%20Views&color=0e75b6&style=flat" />
+  
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-red?style=flat&logo=gmail">
+  </a>
+</p>
+
 
 - 🌱 I’m currently learning **DSA, JavaScript, React, AI/ML**
 - 💻 Working on **Web Development Projects**
