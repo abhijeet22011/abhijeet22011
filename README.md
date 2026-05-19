@@ -1,25 +1,49 @@
-<h1 align="center">✨ Abhijeet Chaurasiya ✨</h1>
-<h3 align="center">Software Developer • Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Abhijeet</h1>
+<h3 align="center">Aspiring Software Engineer </h3>
 
-<p align="center">
-📫 abhijeet22011@gmail.com •  
-<a href="#">LinkedIn</a> •    
+
+- 🌱 I’m currently learning **DSA, JavaScript, React, AI/ML**
+- 💻 Working on **Web Development Projects**
+- 💬 Ask me about **C++, DSA, JavaScript**
+- 📫 Reach me at **abhijeet22011@gmail.com**
+
+---
+
+### 🌐 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="https://twitter.com/your-twitter" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓  B.Tech Student
-- 💻 Love Full Stack Development, DSA, and System Design
-- 🚀 Learning every day & building projects
-- 🤝 Open to Open Source & Hackathons
+### 🚀 Languages and Tools
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-## 🚀 My Coding Profiles
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abhijeet22011&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet22011&layout=compact&theme=tokyonight" />
+</p>
 
-- 🔸 [GeeksforGeeks](https://www.geeksforgeeks.org/user/abhijeet22011/)
-- 🔸 [LeetCode](https://leetcode.com/abhijeet22011/)
-- 🔸 [Codeforces](https://codeforces.com/profile/abhijeet22011)
-- 🔸 [CodeChef](https://www.codechef.com/users/abhijeet22011)
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet22011&theme=tokyonight" />
+</p>
